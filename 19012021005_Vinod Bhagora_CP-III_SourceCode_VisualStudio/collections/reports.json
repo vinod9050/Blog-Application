@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "637ee26ca2e5b567f5ea6fcf"
+  },
+  "user": {
+    "$oid": "637ee123a2e5b567f5ea6fa5"
+  },
+  "post": {
+    "$oid": "637ed51fa2e5b567f5ea6f70"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669259884185"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669259884185"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f00d4a2e5b567f5ea6ff0"
+  },
+  "user": {
+    "$oid": "637ee0b1a2e5b567f5ea6f97"
+  },
+  "post": {
+    "$oid": "637ed4baa2e5b567f5ea6f6c"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669267668852"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669267668852"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63808692ab8a72c4026ba053"
+  },
+  "user": {
+    "$oid": "63808621ab8a72c4026ba045"
+  },
+  "post": {
+    "$oid": "637ed51fa2e5b567f5ea6f70"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669367442519"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669367442519"
+    }
+  },
+  "__v": 0
+}]

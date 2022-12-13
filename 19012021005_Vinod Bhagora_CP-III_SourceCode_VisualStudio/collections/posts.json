@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "637ed4baa2e5b567f5ea6f6c"
+  },
+  "title": "Kubernetes – Concept of Containers",
+  "description": "Kubernetes is an open-source container orchestration framework that was originally developed by Google.\n\nSo now, the question arises, “what’s container orchestration?”.\n\nContainer orchestration is automation. It can facilitate you to deploy the identical application across different environments like physical machines, virtual machines or cloud environments, or perhaps hybrid deployment environments and makes it easier for the management, scaling, and networking of containers.\n\nThe original name for Kubernetes (originates from Greek) within Google was Project 7. Within the year 2014 Kubernetes was released for the primary time and made open-sourced too after using it to run production workloads at scale for quite a decade. Also, pure open-source Kubernetes is free and might be downloaded from its repository on GitHub.",
+  "picture": "",
+  "username": "Man@56",
+  "categories": [
+    "Kubernetes"
+  ],
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1669256232336"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ed51fa2e5b567f5ea6f70"
+  },
+  "title": "Introduction to Microsoft Azure",
+  "description": "Azure is Microsoft’s cloud platform, just like Google has it’s Google Cloud and Amazon has it’s Amazon Web Service or AWS.000. Generally, it is a platform through which we can use Microsoft’s resource. For example, to set up a huge server, we will require huge investment, effort, physical space and so on. In such situations, Microsoft Azure comes to our rescue. ",
+  "picture": "",
+  "username": "Man@56",
+  "categories": [
+    "Azure"
+  ],
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1669256232336"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ed55aa2e5b567f5ea6f74"
+  },
+  "title": "what is AWS",
+  "description": "AWS stands for Amazon web services. It is a cloud service platform that provides on-demand computational services, databases, storage space, and many more services. AWS allows its user to choose products from its vast variety of services and use it on-demand with no upfront payment for most of the services. AWS offers around 200 featured Services. Individually an AWS service may lack some functionality but, given the right AWS architecture, AWS services can be easily integrated to make highly complex and robust applications. Netflix  also uses AWS for nearly all its computational, storage, and database needs, using over 1, 00, 000 AWS server instances",
+  "picture": "",
+  "username": "Man@56",
+  "categories": [
+    "Aws"
+  ],
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1669256232336"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637edfdda2e5b567f5ea6f8b"
+  },
+  "title": "What Is Infrastructure as Code in CI/CD Pipeline?",
+  "description": "your pipeline is the path your code travels from development to production. It contains the automated steps that take code and build it, test it, and finally deploy it. Those steps are the stages of your CI/CD pipeline.\n\nVersion control triggers the first stage of integrating your code. Your build automation system polls Git. When a developer commits and pushes a change, the system retrieves the code and starts a build. Hopefully, your build includes automated tests designed to verify that the change didn’t create any regressions while testing the new change. These steps represent the “continuous integration” part of CI/CD.\n\nOnce the tests pass, the deployment part of the CI/CD pipeline begins. Your automation system deploys the code to development, testing, or production systems.",
+  "picture": "",
+  "username": "Deep@280",
+  "categories": [
+    "CI/CD"
+  ],
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1669259101336"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ee00ea2e5b567f5ea6f8f"
+  },
+  "title": "Jenkins",
+  "description": "Jenkins builds and tests our software projects which continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build.\n\nIt also allows us to continuously deliver our software by integrating with a large number of testing and deployment technologies.\n\nJenkins offers a straightforward way to set up a continuous integration or continuous delivery environment for almost any combination of languages and source code repositories using pipelines, as well as automating other routine development tasks.\n\nWith the help of Jenkins, organizations can speed up the software development process through automation. Jenkins adds development life-cycle processes of all kinds, including build, document, test, package, stage, deploy static analysis and much more.\n\nJenkins achieves CI (Continuous Integration) with the help of plugins. Plugins is used to allow the integration of various DevOps stages. If you want to integrate a particular tool, you have to install the plugins for that tool. For example: Maven 2 Project, Git, HTML Publisher, Amazon EC2, etc.",
+  "picture": "",
+  "username": "Deep@280",
+  "categories": [
+    "Jenkins"
+  ],
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1669259101336"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ee083a2e5b567f5ea6f93"
+  },
+  "title": "Microsoft Azure",
+  "description": "Azure is a cloud computing platform and an online portal that allows you to access and manage cloud services and resources provided by Microsoft. These services and resources include storing your data and transforming it, depending on your requirements. To get access to these resources and services, all you need to have is an active internet connection and the ability to connect to the Azure portal",
+  "picture": "",
+  "username": "Deep@280",
+  "categories": [
+    "Azure"
+  ],
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1669259101336"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ee0eea2e5b567f5ea6f9e"
+  },
+  "title": "Containerization using Docker",
+  "description": "Docker is the world’s leading software container platform. It was launched in 2013 by a company called Dotcloud, Inc which was later renamed Docker, Inc. It is written in the Go language. It has been just six years since Docker was launched yet communities have already shifted to it from VMs. Docker is designed to benefit both developers and system administrators making it a part of many DevOps toolchains. Developers can write code without worrying about the testing and production environment. Sysadmins need not worry about infrastructure as Docker can easily scale up and scale down the number of systems. Docker comes into play at the deployment stage of the software development cycle. ",
+  "picture": "",
+  "username": "Mihir@12",
+  "categories": [
+    "Docker"
+  ],
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1669259403027"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ee109a2e5b567f5ea6fa2"
+  },
+  "title": "Docker Architecture",
+  "description": "Docker architecture consists of Docker client, Docker Daemon running on Docker Host, and Docker Hub repository. Docker has client-server architecture in which the client communicates with the Docker Daemon running on the Docker Host using a combination of REST APIs, Socket IO, and TCP. If we have to build the Docker image, then we use the client to execute the build command to Docker Daemon then Docker Daemon builds an image based on given inputs and saves it into the Docker registry. If you don’t want to create an image then just execute the pull command from the client and then Docker Daemon will pull the image from the Docker Hub finally if we want to run the image then execute the run command from the client which will create the container. ",
+  "picture": "",
+  "username": "Mihir@12",
+  "categories": [
+    "Docker"
+  ],
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1669259403027"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ee193a2e5b567f5ea6fac"
+  },
+  "title": "Chef",
+  "description": "Chef works on a three-tier client server model wherein the working units such as cookbooks are developed on the Chef workstation. From the command line utilities such as knife, they are uploaded to the Chef server and all the nodes which are present in the architecture are registered with the Chef server..",
+  "picture": "",
+  "username": "Bhartat$66",
+  "categories": [
+    "Chef"
+  ],
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1669259537344"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380866dab8a72c4026ba04b"
+  },
+  "title": "Music",
+  "description": "Music is",
+  "picture": "",
+  "username": "Vinod@13",
+  "categories": [
+    "All"
+  ],
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1669365027029"
+    }
+  },
+  "__v": 0
+}]
